@@ -62,15 +62,15 @@
 ## Asian
 
 -   [Bincho Yakitori](https://www.binchoyakitori.com/) -
-    delicious flame-cooked skewers in a small buzzy restaurant]
+    delicious flame-cooked skewers in a small buzzy restaurant
 -   [No No Please](https://no-no-please.co.uk/) - small
-    plates featuring spicy, tasty morsels from South East Asia]
+    plates featuring spicy, tasty morsels from South East Asia
 -   [Gars](https://www.gars.co.uk/) - over 40 years of
     serving up very tasty Chinese fare]
 -   [Ivy Asia](https://theivyasia.com/) - beautiful food
     in a beautiful setting]
 -   [Sushi Garden](http://www.sushigarden.co.uk/) -
-    traditional Japanese restaurant]
+    traditional Japanese restaurant
 -   [O\'Shio](https://www.oshio.co.uk/) - top notch
     sushi]
 -   [Wagamama](https://www.wagamama.com/) fun restaurant
@@ -128,9 +128,9 @@
 ## Fish and Chips
 
 -   [Bankers](https://bankersfishandchips.co.uk/)
--   [Bardsleys](http://bardsleys-fishandchips.co.uk/)]
+-   [Bardsleys](http://bardsleys-fishandchips.co.uk/)
 -   [Wolfies of Hove](https://wolfies-hove.co.uk/)
--   [RYBKA](https://www.rybka.fish/)]
+-   [RYBKA](https://www.rybka.fish/)
 
 ## Sunday Roasts
 
@@ -138,11 +138,11 @@
 -   [Coopers
     Cask](https://www.facebook.com/cooperscaskhove/)
 -   [Coal
-    Shed](https://coalshed-restaurant.co.uk/)]
+    Shed](https://coalshed-restaurant.co.uk/)
 -   [West Hill
     Tavern](https://www.thewesthilltavern.com/)
 -   [Petit
-    Pois](https://petitpoisbrighton.co.uk/)]
+    Pois](https://petitpoisbrighton.co.uk/)
 -   [The White Rabbit](https://www.whiterabbit.pub/)
 -   [Cyan at The Grand](https://cyanbrighton.co.uk/)
 
