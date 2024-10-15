@@ -1,4 +1,4 @@
-# Things to do in Brighton
+# Things to see and do
 
 ## Museums
 
