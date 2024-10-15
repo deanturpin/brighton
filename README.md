@@ -26,7 +26,7 @@
     canteen style place on the seafront with multiple food vendors under
     one roof!
 
-## **Vegetarian and Vegan**
+## Vegetarian and Vegan
 
 -   [Bonsai Plant
     Kitchen](https://www.bonsaiplantkitchen.co.uk/) -
@@ -84,7 +84,7 @@
 -   [Lucky Khao](https://www.luckykhao.com/) - Fun, hip,
     modern Northern Thai. Amazing flavours!
 
-## **Indian**
+## Indian
 
 -   [Indian
     Summer](https://www.indiansummerbrighton.co.uk/) -
@@ -125,14 +125,14 @@
 -   [Wendys](https://www.wendys.com/en-uk)
 -   [Joe's Burgers](https://www.joesburgerhouse.com/)
 
-## **Fish and Chips**
+## Fish and Chips
 
 -   [Bankers](https://bankersfishandchips.co.uk/)
 -   [Bardsleys](http://bardsleys-fishandchips.co.uk/)]
 -   [Wolfies of Hove](https://wolfies-hove.co.uk/)
 -   [RYBKA](https://www.rybka.fish/)]
 
-## **Sunday Roasts**
+## Sunday Roasts
 
 -   [New Club](https://thenewclubbrighton.com/)
 -   [Coopers
@@ -157,44 +157,30 @@
 
 ## Bars & Pubs
 
--   [Gung Ho!](https://www.gunghobar.com/) - perfect
-    cocktail punch into a tiny space!
--   [Bar Valentino](https://barvalentino.co.uk/) - buzz to
-    gain entry! Brighton\'s most secret cocktail bar!
--   [The Plotting
-    Parlour](https://theplottingparlour.uk/) - book ahead!
--   [Black Dove](https://blackdovebrighton.com/) - quirky,
-    cool, great cocktails
--   [Twisted
-    Lemon](https://www.facebook.com/twistedlemonbrighton/?locale=en_GB)
--   [The Golden Pineapple of Ship
-    Street](https://www.goldenpineapple.party/)
+-   [Gung Ho!](https://www.gunghobar.com/) - perfect cocktail punch into a tiny space!
+-   [Bar Valentino](https://barvalentino.co.uk/) - buzz to gain entry! Brighton\'s most secret cocktail bar!
+-   [The Plotting Parlour](https://theplottingparlour.uk/) - book ahead!
+-   [Black Dove](https://blackdovebrighton.com/) - quirky, cool, great cocktails
+-   [Twisted Lemon](https://www.facebook.com/twistedlemonbrighton/?locale=en_GB)
+-   [The Golden Pineapple of Ship Street](https://www.goldenpineapple.party/)
 -   [Bar Medusa](https://www.facebook.com/medusa.bar.5/)
 -   [L\'Atelier du Vin](https://www.latelierduvin.co.uk/)
--   [Block Bar](https://www.blockbar.co.uk/) - upbeat and
-    fun bar with beats and bites
--   [Plateau](https://www.plateaubrighton.co.uk/) - one
-    for the natural wine enthusiasts
--   [The Hole in the
-    Wall](https://www.facebook.com/theholeinthewallbtn/) -
-    a hidden Brighton gem, the smallest pub in town!
--   [Fortune of War](https://www.fortuneofwar.pub/) - busy
-    seafront pub
+-   [Block Bar](https://www.blockbar.co.uk/) - upbeat and fun bar with beats and bites
+-   [Plateau](https://www.plateaubrighton.co.uk/) - one for the natural wine enthusiasts
+-   [The Hole in the Wall](https://www.facebook.com/theholeinthewallbtn/) - a hidden Brighton gem, the smallest pub in town!
+-   [Fortune of War](https://www.fortuneofwar.pub/) - busy seafront pub
 -   [The Victory Inn](https://www.victory.pub/)
 -   [Caxton Arms](https://www.caxtonarms.co.uk/)
--   [Coopers
-    Cask](https://www.tripadvisor.co.uk/Restaurant_Review-g652380-d4495126-Reviews-Coopers_Cask-Hove_East_Sussex_England.html)
+-   [Coopers Cask](https://www.tripadvisor.co.uk/Restaurant_Review-g652380-d4495126-Reviews-Coopers_Cask-Hove_East_Sussex_England.html)
 -   [The Pond](https://www.thepondbrighton.com/)
 -   [The Urchin](https://www.urchinpub.co.uk/) - excellent food!
--   [The Bee's Mouth](https://www.facebook.com/beesmouth123/?locale=en_GB) -
-    music/DJ area downstairs
+-   [The Bee's Mouth](https://www.facebook.com/beesmouth123/?locale=en_GB) - music/DJ area downstairs
 -   [The Paris House](https://www.the-paris-house.co.uk/)
 -   [The Hampton](https://www.easytigerbrighton.com/)
 
 ## Gigs, Clubs & Shows
 
--   [Proud
-    Cabaret](https://proudcabaret.com/collections/brighton/)
+-   [Proud Cabaret](https://proudcabaret.com/collections/brighton/)
 -   [Komedia](https://www.komedia.co.uk/brighton/)
 -   [Theatre Royal](http://theatreroyalbrighton.com/)
 -   [Brighton Dome](https://brightondome.org/)
@@ -203,12 +189,11 @@
 -   Waterbear
 -   [Patterns](https://patternsbrighton.com/)
 -   [The Arch](https://www.thearch.club/)
--   [The Bee\'s
-    Mouth](https://www.facebook.com/beesmouth123/?locale=en_GB)
+-   [The Bee's Mouth](https://www.facebook.com/beesmouth123/?locale=en_GB)
 -   [Green Door Store](https://thegreendoorstore.co.uk/)
 -   [The Old Market](https://www.theoldmarket.com/)
 
-## **To see...**
+## To see
 
 -   [i360](https://brightoni360.co.uk/tickets/) - take a
     trip up inside the i360 or for the more adventurous, reach 138
@@ -233,7 +218,7 @@
     Lanes](https://www.visitbrighton.com/food-and-drink/areas-to-explore/the-lanes) -
     shopping and a bite to eat
 
-### **For Kids**
+### For Kids
 
 -   [Brighton Zip Line](https://brightonzip.com/)
 -   [Upside Down House](https://upsidedownhouse.co.uk/)
@@ -241,15 +226,13 @@
 -   [Vrroom Racing](https://www.vrroomracing.com/)
 -   [Sixes Social Cricket](https://sixescricket.com/)
 
-### **Explore further!**
+### Explore further!
 
 -   [Devil\'s
-    Dyke](https://www.nationaltrust.org.uk/visit/sussex/devils-dyke)
-    \-- north of Brighton, spectacular views across The Downs, great for
+    Dyke](https://www.nationaltrust.org.uk/visit/sussex/devils-dyke) - north of Brighton, spectacular views across The Downs, great for
     a walk and a pub at the end
 -   [The Chattri
-    Memorial](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/parks-and-green-spaces/chattri-memorial)
-    \-- worth the walk up The Downs for this serene and beautiful
+    Memorial](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/parks-and-green-spaces/chattri-memorial) - worth the walk up The Downs for this serene and beautiful
     memorial
 -   [Leonardslee Lakes and
     Garden](https://www.leonardsleegardens.co.uk/)s-
@@ -260,7 +243,6 @@
     great walk!
 -   [Drusillas Park](https://www.drusillas.co.uk/) - 10
     acres zoo near Alfriston
-
 
 ## Museums
 
