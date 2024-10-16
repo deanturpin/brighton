@@ -26,7 +26,7 @@
     canteen style place on the seafront with multiple food vendors under
     one roof!
 
-## Vegetarian and Vegan
+### Vegetarian and Vegan
 
 -   [Bonsai Plant
     Kitchen](https://www.bonsaiplantkitchen.co.uk/) -
@@ -48,7 +48,7 @@
 -   [Purezza](https://purezza.co.uk/locations/brighton/) -
     vegan pizzeria with gluten free base options
 
-## Fish
+### Fish
 
 -   [Little Fish
     Market](https://www.thelittlefishmarket.co.uk/) -
@@ -59,7 +59,7 @@
 -   [Salt Room](https://saltroom-restaurant.co.uk/) - seafront facing, large glamorous restaurant
 -   [Regency Restaurant](https://theregencyrestaurant.co.uk/) - Relaxed seafood offerings
 
-## Asian
+### Asian
 
 -   [Bincho Yakitori](https://www.binchoyakitori.com/) -
     delicious flame-cooked skewers in a small buzzy restaurant
@@ -84,7 +84,7 @@
 -   [Lucky Khao](https://www.luckykhao.com/) - Fun, hip,
     modern Northern Thai. Amazing flavours!
 
-## Indian
+### Indian
 
 -   [Indian
     Summer](https://www.indiansummerbrighton.co.uk/) -
@@ -102,7 +102,7 @@
 -   [Vel](https://velbrighton.co.uk/) - South Indian
     flavours in this Kemptown location
 
-## Pizza/Italian
+### Pizza/Italian
 
 -   [Pizza Pilgrims](https://www.pizzapilgrims.co.uk/)
 -   [VIP Pizza](https://pizzavip.co.uk/)
@@ -117,7 +117,7 @@
 -   [Cin Cin](https://www.cincin.co.uk/) - packing a punch
     with tasty small plates and pasta mains
 
-## Burgers
+### Burgers
 
 -   [Burger Brothers](https://www.burgerbrothersbrighton.co.uk/)
 -   [7 Bone](https://7bone.co.uk/)
@@ -125,14 +125,14 @@
 -   [Wendys](https://www.wendys.com/en-uk)
 -   [Joe's Burgers](https://www.joesburgerhouse.com/)
 
-## Fish and Chips
+### Fish and Chips
 
 -   [Bankers](https://bankersfishandchips.co.uk/)
 -   [Bardsleys](http://bardsleys-fishandchips.co.uk/)
 -   [Wolfies of Hove](https://wolfies-hove.co.uk/)
 -   [RYBKA](https://www.rybka.fish/)
 
-## Sunday Roasts
+### Sunday Roasts
 
 -   [New Club](https://thenewclubbrighton.com/)
 -   [Coopers
@@ -146,7 +146,7 @@
 -   [The White Rabbit](https://www.whiterabbit.pub/)
 -   [Cyan at The Grand](https://cyanbrighton.co.uk/)
 
-## Cafes/Brunch
+### Cafés/Brunch
 
 -   [Lost in the Lanes](https://www.lostinthelanes.com/)
 -   [Flour Pot](https://theflourpot.co.uk/)
@@ -218,7 +218,7 @@
     Lanes](https://www.visitbrighton.com/food-and-drink/areas-to-explore/the-lanes) -
     shopping and a bite to eat
 
-### For Kids
+## For Kids
 
 -   [Brighton Zip Line](https://brightonzip.com/)
 -   [Upside Down House](https://upsidedownhouse.co.uk/)
@@ -226,16 +226,12 @@
 -   [Vrroom Racing](https://www.vrroomracing.com/)
 -   [Sixes Social Cricket](https://sixescricket.com/)
 
-### Explore further!
+## Explore further!
 
--   [Devil\'s
-    Dyke](https://www.nationaltrust.org.uk/visit/sussex/devils-dyke) - north of Brighton, spectacular views across The Downs, great for
-    a walk and a pub at the end
--   [The Chattri
-    Memorial](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/parks-and-green-spaces/chattri-memorial) - worth the walk up The Downs for this serene and beautiful
-    memorial
--   [Leonardslee Lakes and
-    Garden](https://www.leonardsleegardens.co.uk/)s-
+-   [Devil's Dyke](https://www.nationaltrust.org.uk/visit/sussex/devils-dyke) - north of Brighton, spectacular views across The Downs, great for a walk and a pub at the end
+-   [The Chattri Memorial](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/parks-and-green-spaces/chattri-memorial) - worth the walk up The Downs for this serene and beautiful  memorial (you can't get there with a car apart from special events)
+- Ditchling Beacon - breathtaking views of both sides of the Downs (and you can get there with a car and sometimes there's an icecream van)
+-   [Leonardslee Lakes and Gardens](https://www.leonardsleegardens.co.uk/) -
     beautiful gardens near Horsham
 -   [Seven
     Sisters](https://www.southdowns.gov.uk/seven-sisters-country-park/) -
@@ -250,4 +246,4 @@ The Booth Natural History museum a wonderfully quirky -- if a little macabre -- 
 
 ## Sea swimming
 
-Getting in a sea is a big thing in Brighton. The beach in town can get quite rough, but if you're able to get out of town Kingston Beach has a good scene, and sometimes a sauna.
+Getting in the sea is a big thing in Brighton. The beach by the piers can get rough -- which might be your thing! -- but if you're able to get out of town, Kingston Beach has a good scene (and also a [sauna](https://www.thenomadicsauna.co.uk/)).
