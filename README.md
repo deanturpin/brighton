@@ -10,8 +10,7 @@
     classic French cookng at its best
 -   [Baqueano](https://www.baqueano.co.uk/) - solid
     Argentinian steak restaurant
--   [Coal Shed](https://coalshed-restaurant.co.uk/) -
-    Flame cooking for maximum flavour, great for steak and fish options
+-   [Coal Shed](https://coalshed-restaurant.co.uk/) - flame cooking for maximum flavour, great for steak and fish options
 -   [Burnt Orange](https://burnt-orange.co.uk/) - busy
     restaurant with tasty Middle Eastern influenced cooking
 -   [Cyan Brighton](https://cyanbrighton.co.uk/) at The
@@ -25,6 +24,8 @@
 -   [Shelter Hall](https://shelterhall.co.uk/) - relaxed
     canteen style place on the seafront with multiple food vendors under
     one roof!
+- [Dilsk](https://dilsk.co.uk/)
+
 
 ### Vegetarian and Vegan
 
@@ -66,20 +67,20 @@
 -   [No No Please](https://no-no-please.co.uk/) - small
     plates featuring spicy, tasty morsels from South East Asia
 -   [Gars](https://www.gars.co.uk/) - over 40 years of
-    serving up very tasty Chinese fare]
+    serving up very tasty Chinese fare
 -   [Ivy Asia](https://theivyasia.com/) - beautiful food
-    in a beautiful setting]
+    in a beautiful setting
 -   [Sushi Garden](http://www.sushigarden.co.uk/) -
     traditional Japanese restaurant
 -   [O\'Shio](https://www.oshio.co.uk/) - top notch
-    sushi]
+    sushi
 -   [Wagamama](https://www.wagamama.com/) fun restaurant
     from this chain with long tables for sociable dining
 -   [Moshimo](https://www.moshimo.co.uk/) - a Brighton
     favourite, extensive menu to suit all
 -   [Pho](https://www.phocafe.co.uk/) - nationwide chain
     serving nutritious and fresh-tasting Vietnamese delights
--   [Pompoko](https://pompoko.co.uk/) - Reasonable, fast
+-   [Pompoko](https://pompoko.co.uk/) - reasonable, fast
     and tasty eats
 -   [Lucky Khao](https://www.luckykhao.com/) - Fun, hip,
     modern Northern Thai. Amazing flavours!
@@ -89,8 +90,7 @@
 -   [Indian
     Summer](https://www.indiansummerbrighton.co.uk/) -
     Lovely restaurant and food
--   [Chilli Pickle](https://thechillipickle.com/) - Tasty
-    flavours at this lively central restaurant
+-   [Chilli Pickle](https://thechillipickle.com/) - tasty flavours at this lively central restaurant
 -   [Curry Leaf](https://www.curryleafcafe.com/) -
     Bustling place, lip smacking South Indian food
 -   [Malika](https://malikaindianrestaurant.com/) -
