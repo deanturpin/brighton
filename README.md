@@ -127,10 +127,11 @@
 
 ### Fish and Chips
 
--   [Bankers](https://bankersfishandchips.co.uk/)
+-   [RYBKA](https://www.rybka.fish/)
+-   [No Catch](https://www.nocatch.co/) (vegan)
+-   [Bankers](https://bankersfishandchips.co.uk/) (back from the prom)
 -   [Bardsleys](http://bardsleys-fishandchips.co.uk/)
 -   [Wolfies of Hove](https://wolfies-hove.co.uk/)
--   [RYBKA](https://www.rybka.fish/)
 
 ### Sunday Roasts
 
