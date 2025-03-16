@@ -225,7 +225,6 @@
 -   [Upside Down House](https://upsidedownhouse.co.uk/)
 -   [Laserzone](https://www.laserzone.co.uk/brighton/)
 -   [Vrroom Racing](https://www.vrroomracing.com/)
--   [Sixes Social Cricket](https://sixescricket.com/)
 
 ## Explore further!
 
@@ -248,3 +247,4 @@ The Booth Natural History museum a wonderfully quirky -- if a little macabre -- 
 ## Sea swimming
 
 Getting in the sea is a big thing in Brighton. The beach by the piers can get rough -- which might be your thing! -- but if you're able to get out of town, Kingston Beach has a good scene (and also a [sauna](https://www.thenomadicsauna.co.uk/)).
+
