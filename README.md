@@ -174,7 +174,7 @@
 ## Gigs, Clubs & Shows
 
 -   [Proud Cabaret](https://proudcabaret.com/collections/brighton/)
--   [Komedia](https://www.komedia.co.uk/brighton/)
+-   [Komedia](https://www.komedia.co.uk/brighton/): comedy and really cool cinema
 -   [Theatre Royal](http://theatreroyalbrighton.com/)
 -   [Brighton Dome](https://brightondome.org/)
 -   [Chalk](https://chalkvenue.com/)
@@ -188,28 +188,16 @@
 
 ## To see
 
--   [i360](https://brightoni360.co.uk/tickets/) - take a
-    trip up inside the i360 or for the more adventurous, reach 138
-    metres up and walk on the top with [Walk
-    360](https://www.brightoni360.co.uk/tickets/walk-360/)!
--   [Royal Pavilion &
-    Garden](https://brightonmuseums.org.uk/visit/royal-pavilion-garden/)
--   [Sealife
-    Centre](https://www.visitsealife.com/brighton/)
--   [Volk\'s Electric
-    Railway](https://volksrailway.org.uk/)
+-   [i360](https://brightoni360.co.uk/tickets/) - take a trip up inside the i360 or for the more adventurous, reach 138 metres up and walk on the top with [Walk 360](https://www.brightoni360.co.uk/tickets/walk-360/)!
+-   [Royal Pavilion & Garden](https://brightonmuseums.org.uk/visit/royal-pavilion-garden/)
+-   [Sealife Centre](https://www.visitsealife.com/brighton/)
+-   [Volk\'s Electric Railway](https://volksrailway.org.uk/)
 -   [Brighton Marina](https://www.brightonmarina.co.uk/)
--   [The Undercliff
-    Walk](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/seafront/undercliff-walk)
+-   [The Undercliff Walk](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/seafront/undercliff-walk)
 -   [Palace Pier](https://www.brightonpier.co.uk/)
--   [Brighton Museum & Art
-    Gallery](https://brightonmuseums.org.uk/brighton-museum-art-gallery/)
--   [Theatre Royal](http://theatreroyalbrighton.com/) -
-    catch a show
--   [Komedia](https://www.komedia.co.uk/brighton/)
--   [The
-    Lanes](https://www.visitbrighton.com/food-and-drink/areas-to-explore/the-lanes) -
-    shopping and a bite to eat
+-   [Brighton Museum & Art Gallery](https://brightonmuseums.org.uk/brighton-museum-art-gallery/)
+-   [Theatre Royal](http://theatreroyalbrighton.com/) - catch a show
+-   [The Lanes](https://www.visitbrighton.com/food-and-drink/areas-to-explore/the-lanes) - shopping and a bite to eat
 
 ## For Kids
 
