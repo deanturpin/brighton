@@ -87,20 +87,12 @@
 
 ### Indian
 
--   [Indian
-    Summer](https://www.indiansummerbrighton.co.uk/) -
-    Lovely restaurant and food
+-   [Indian Summer](https://www.indiansummerbrighton.co.uk/) - Lovely restaurant and food
 -   [Chilli Pickle](https://thechillipickle.com/) - tasty flavours at this lively central restaurant
--   [Curry Leaf](https://www.curryleafcafe.com/) -
-    Bustling place, lip smacking South Indian food
--   [Malika](https://malikaindianrestaurant.com/) -
-    Seafront location, authentic Indian food
--   [Permit Room](https://www.permitroom.co.uk/) -
-    Dishoom's casual bar/restaurant
--   [Manjus](https://manjus.co.uk/) - Wonderful Gujarati
-    vegetarian offerings
--   [Vel](https://velbrighton.co.uk/) - South Indian
-    flavours in this Kemptown location
+-   [Curry Leaf](https://www.curryleafcafe.com/) - Bustling place, lip smacking South Indian food
+-   [Permit Room](https://www.permitroom.co.uk/) - Dishoom's casual bar/restaurant
+-   [Manju's](https://manjus.co.uk/) - Wonderful Gujarati vegetarian offerings
+-   [Vel](https://velbrighton.co.uk/) - South Indian flavours in this Kemptown location
 
 ### Pizza/Italian
 
