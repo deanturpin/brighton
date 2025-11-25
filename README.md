@@ -4,7 +4,7 @@
 
 ### Modern British/Other
 
--   [64 Degrees](https://64degrees.co.uk/) - acclaimed MasterChef winner Michael Bremner\'s small but perfectly formed restaurant
+-   ~[64 Degrees](https://64degrees.co.uk/) - acclaimed MasterChef winner Michael Bremner\'s small but perfectly formed restaurant~ sadly gone
 -   [Wild Flor](https://www.wildflor.com/) - wonderful food made with love
 -   [Petit Pois](https://petitpoisbrighton.co.uk/) -
     classic French cookng at its best
@@ -21,10 +21,9 @@
 -   [Furna](https://furnarestaurant.co.uk/) - Oozing style
     and class and led by a great team, Furna offers flavoursome and
     interesting food, a firm favourite!
--   [Shelter Hall](https://shelterhall.co.uk/) - relaxed
-    canteen style place on the seafront with multiple food vendors under
-    one roof!
+- [Shelter Hall](https://shelterhall.co.uk/) - relaxed canteen style place on the seafront with multiple food vendors under one roof!
 - [Dilsk](https://dilsk.co.uk/)
+- Gothic Crab
 
 
 ### Vegetarian and Vegan
